@@ -58,3 +58,7 @@ Uploading a **.aia** file in **MIT App Inventor** is simple. **.aia** files are 
 - From there, you can continue editing the project, add new features, or export it again if needed.
 
 With these simple steps, you can import and continue working on your projects in MIT App Inventor.
+
+If you wish to contribute to this project, feel free to fork the repository and submit a pull request with your improvements.
+
+This project is licensed under the MIT License. See the LICENSE file for more details
